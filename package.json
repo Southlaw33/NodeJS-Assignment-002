@@ -4,7 +4,7 @@
   "description": "NodeJS assignement 2(movie management system)", 
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node src/reminders.ts",
+    "start": "npx ts-node src/movies.ts",
     "dev": "npx ts-node src/index.ts"
   },
   "author": "Atchutha Rao t A",
