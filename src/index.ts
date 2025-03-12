@@ -29,7 +29,7 @@ function getMovieId(): string | null {
 
 // Main Menu Loop
 while (true) {
-    console.log("\n===== Movie Database App =====");
+    console.log("\nMovie Management System");
     console.log("1. View all movies");
     console.log("2. View movie details");
     console.log("3. Add new movie");
