@@ -1,0 +1,24 @@
+{
+  "name": "node-playground",
+  "version": "0.0.0",
+  "description": "NodeJS assignement 2(movie management system)", 
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/reminders.ts",
+    "dev": "npx ts-node src/index.ts"
+  },
+  "author": "Atchutha Rao t A",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.13.10",
+    "@types/prompt-sync": "^4.2.3",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@Types/prompt-sync": "npm:@types/prompt-sync@^4.2.3",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  }
+}
