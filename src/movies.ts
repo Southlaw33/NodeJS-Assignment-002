@@ -75,10 +75,6 @@ class MovieDatabase{
         return Array.from(this.movies.values())
             .filter(movie => movie.title.toLowerCase().includes(keyword.toLowerCase()));
     }
-
-
-
-    
 }
 
 export default MovieDatabase; 
